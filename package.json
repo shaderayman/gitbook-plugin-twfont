@@ -1,18 +1,18 @@
 {
-  "name": "gitbook-plugin-chinesebetterfonts",
-  "description": "Change to unicode font family",
+  "name": "gitbook-plugin-betterchinese",
+  "description": "Better Chinese fonts",
   "main": "index.js",
   "version": "0.0.1",
   "engines": {
     "gitbook": ">=0.4.6"
   },
-  "homepage": "https://github.com/imcmy/gitbook-plugin-chinesebetterfonts",
+  "homepage": "https://github.com/imcmy/gitbook-plugin-betterchinese",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/imcmy/gitbook-plugin-chinesebetterfonts"
+    "url": "https://github.com/imcmy/gitbook-plugin-betterchinese"
   },
   "keywords": [
     "gitbookio",
@@ -23,6 +23,6 @@
   "author": "saturngod, modified by Set Kyar Wa lar, modified by imcmy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imcmy/gitbook-plugin-chinesebetterfonts/issues"
+    "url": "https://github.com/imcmy/gitbook-plugin-betterchinese/issues"
   }
 }
