@@ -1,18 +1,18 @@
 {
-  "name": "gitbook-plugin-betterchinese",
-  "description": "Better Chinese fonts",
+  "name": "gitbook-plugin-twfont",
+  "description": "Taiwan fonts",
   "main": "index.js",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "gitbook": ">=0.4.6"
   },
-  "homepage": "https://github.com/imcmy/gitbook-plugin-betterchinese",
+  "homepage": "https://github.com/shaderayman/gitbook-plugin-twfont",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/imcmy/gitbook-plugin-betterchinese"
+    "url": "https://github.com/shaderayman/gitbook-plugin-twfont"
   },
   "keywords": [
     "gitbookio",
@@ -20,9 +20,9 @@
     "chinese",
     "plugin"
   ],
-  "author": "saturngod, modified by Set Kyar Wa lar, modified by imcmy",
+  "author": "saturngod, modified by Set Kyar Wa lar, modified by shaderayman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imcmy/gitbook-plugin-betterchinese/issues"
+    "url": "https://github.com/shaderayman/gitbook-plugin-twfont/issues"
   }
 }

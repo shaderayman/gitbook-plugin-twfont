@@ -1,22 +1,22 @@
 
-## gitbook-plugin-betterchinese
+## gitbook-plugin-twfont
 
-To support better Chinese font family and font embed in gitbook web version. And modify the code part's fonts.
+To support Taiwan font family and font embed in gitbook web version. And modify the code part's fonts.
 
 
 ### To Install
 
 ```
-npm install gitbook-plugin-betterchinese
+npm install gitbook-plugin-twfont
 ```
 
 In `book.json` ,
 
-add `gitbook-plugin-betterchinese` in `plugins`
+add `gitbook-plugin-twfont` in `plugins`
 
 ```json
 "plugins": [
-	"gitbook-plugin-betterchinese"
+	"gitbook-plugin-twfont"
 ]
 ```
 
